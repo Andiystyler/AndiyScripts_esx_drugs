@@ -5,6 +5,8 @@ Picking plants then you go to proccess
 
 I dont claim this as my own i coded it in a diffrent way the base and the idea comes from esx legacy 
 
+Discord: https://discord.gg/yGz9kGDyw4
+
 Follow the license of https://github.com/esx-framework/esx-legacy
 
 License
