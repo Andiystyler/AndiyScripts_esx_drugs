@@ -3,7 +3,7 @@ A changed esx_drug that you can create new drugs from the config
 
 Picking plants then you got harvest
 
-I dont claim this as my own i coded it in a diffrent way the bas and the idea comes form esx legacy 
+I dont claim this as my own i coded it in a diffrent way the base and the idea comes from esx legacy 
 
 Follow the license of https://github.com/esx-framework/esx-legacy
 
