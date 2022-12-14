@@ -1,7 +1,7 @@
 # AndiyScripts_esx_drugs
 A changed esx_drug that you can create new drugs from the config
 
-Picking plants then you got harvest
+Picking plants then you go to proccess
 
 I dont claim this as my own i coded it in a diffrent way the base and the idea comes from esx legacy 
 
